@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+Creating a test txt file.
+In Geza branch.
+
+Buzi vagy :)
+De én is szóval egymsára találtunk
+Annának ez nem tetszik :(
+    Anna mérges :D
+Anna mosolyog :)))
+>>>>>>> origin/Levi
